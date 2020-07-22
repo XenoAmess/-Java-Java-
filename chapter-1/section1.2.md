@@ -114,5 +114,3 @@ JOJO！我不做人了！
 
 首先，我们可以把out上标一个@deprecated，并且把它的final摘了，然后套用上面的1.2.4.3中的方法。若干个大版本后，大家都适应了不直接用System.out了，这时候我们把out的public改成private，搞定收工。
 
-
-
