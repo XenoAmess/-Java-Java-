@@ -16,7 +16,7 @@ description: 简介
 
 这本书的阅读地址位于gitbook：
 
-{% embed url="https://xenoamess.gitbook.io/rethink-of-java\_cn/" %}
+{% embed url="https://xenoamess.gitbook.io/rethink-of-java\_cn/" caption="https://xenoamess.gitbook.io/rethink-of-java\_cn/" %}
 
 但是如果你希望直接从github读那也行吧：
 
