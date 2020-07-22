@@ -3,5 +3,5 @@
 * [愚蠢的Java：Java语言反思](README.md)
 * [第1章：只准州官放火 不准百姓点灯](chapter-1/README.md)
   * [1.1 Java中的数组](chapter-1/section1.1.md)
-  * [1.2 final变量问题](chapter-1/section1.2.md)
+  * [1.2 final变量修改问题](chapter-1/section1.2.md)
 
