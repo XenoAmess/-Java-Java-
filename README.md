@@ -14,13 +14,7 @@ description: 简介
 
 这本书不会进行大量jvm分析，而是尽量专注于语法层面，是一本相当浅薄易懂的书（应该）。
 
-这本书的阅读地址位于gitbook：
+这本书的阅读地址位于gitbook：[https://xenoamess.gitbook.io/rethink-of-java/](https://xenoamess.gitbook.io/rethink-of-java/)
 
-{% embed url="https://xenoamess.gitbook.io/rethink-of-java\_cn/" caption="https://xenoamess.gitbook.io/rethink-of-java\_cn/" %}
-
-但是如果你希望直接从github读那也行吧：
-
-{% embed url="https://github.com/XenoAmess/rethink-of-java\_cn" caption="https://github.com/XenoAmess/rethink-of-java\_cn" %}
-
-
+但是如果你希望直接从github读那也行吧：[https://github.com/XenoAmess/rethink-of-java\_cn](https://github.com/XenoAmess/rethink-of-java_cn)
 
