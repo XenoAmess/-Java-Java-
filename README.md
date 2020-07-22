@@ -4,6 +4,8 @@ description: 简介
 
 # 愚蠢的Java：Java语言反思
 
+## Getting Super Powers
+
 这是一本关于Java的电子书。
 
 这本书的重点在于指出Java语言设计中的不合理之处，并试图加以分析，并试图给出一个合理的解决办法（尽量）。
