@@ -2,7 +2,7 @@
 description: public，private，default，protected……这都啥玩意啊。
 ---
 
-# 2.1 访问权限设计
+# 2.1 访问权限设计缺陷
 
 ## 2.1.1 当前访问权限设计存在的问题
 
