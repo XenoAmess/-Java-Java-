@@ -8,4 +8,6 @@
   * [2.1 访问权限设计](chapter-2/section2.1.md)
   * [2.2 jni设计](chapter-2/section2.2.md)
   * [2.3 struct类型设计](chapter-2/section2.3.md)
+* [第3章 设计缺失](chapter-3/README.md)
+  * [Untitled](chapter-3/untitled.md)
 
